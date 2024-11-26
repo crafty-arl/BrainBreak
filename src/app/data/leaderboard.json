@@ -1,0 +1,213 @@
+{
+  "scores": [
+    {
+      "id": "DEF-1732582256162-obh2bzav4",
+      "name": "DEF",
+      "score": 300,
+      "height": 8,
+      "timestamp": "2024-11-26T00:50:56.162Z"
+    },
+    {
+      "id": "DMG-1732580340374-3raf5e0ei",
+      "name": "DMG",
+      "score": 240,
+      "height": 0,
+      "timestamp": "2024-11-26T00:19:00.374Z"
+    },
+    {
+      "id": "ABC-1732580013974-jrrt7reys",
+      "name": "ABC",
+      "score": 220,
+      "height": 18,
+      "timestamp": "2024-11-26T00:13:33.974Z"
+    },
+    {
+      "id": "DMG-1732580487882-h4n5xq147",
+      "name": "DMG",
+      "score": 220,
+      "height": 26,
+      "timestamp": "2024-11-26T00:21:27.882Z"
+    },
+    {
+      "id": "CARL-1732503926329-v1p5mf9y8",
+      "name": "CARL",
+      "score": 200,
+      "height": 0,
+      "timestamp": "2024-11-25T03:05:26.329Z"
+    },
+    {
+      "id": "CARL-1732553615641-yfd6v81uc",
+      "name": "CARL",
+      "score": 170,
+      "height": 19,
+      "timestamp": "2024-11-25T16:53:35.641Z"
+    },
+    {
+      "id": "CARL-1732493951202-x23n24nwh",
+      "name": "CARL",
+      "score": 160,
+      "height": 24,
+      "timestamp": "2024-11-25T00:19:11.202Z"
+    },
+    {
+      "id": "CARL-1732493996785-nm6ng0fnv",
+      "name": "CARL",
+      "score": 160,
+      "height": 24,
+      "timestamp": "2024-11-25T00:19:56.785Z"
+    },
+    {
+      "id": "CARL-1732577497705-d8kghdl5q",
+      "name": "CARL",
+      "score": 140,
+      "height": 19,
+      "timestamp": "2024-11-25T23:31:37.705Z"
+    },
+    {
+      "id": "BAP-1732572873067-4jftkzzxn",
+      "name": "BAP",
+      "score": 130,
+      "height": 8,
+      "timestamp": "2024-11-25T22:14:33.067Z"
+    },
+    {
+      "name": "CARL",
+      "score": 70,
+      "height": 13,
+      "timestamp": "2024-11-25T00:14:03.770Z"
+    },
+    {
+      "id": "CARL-1732506761240-wttaqbgox",
+      "name": "CARL",
+      "score": 50,
+      "height": 27,
+      "timestamp": "2024-11-25T03:52:41.240Z"
+    },
+    {
+      "id": "CARL-1732503509914-1br7hxxno",
+      "name": "CARL",
+      "score": 40,
+      "height": 5,
+      "timestamp": "2024-11-25T02:58:29.914Z"
+    },
+    {
+      "id": "CARL-1732509879922-tynb8m60f",
+      "name": "CARL",
+      "score": 40,
+      "height": 10,
+      "timestamp": "2024-11-25T04:44:39.922Z"
+    },
+    {
+      "id": "CARL-1732510079168-nu3gvpl85",
+      "name": "CARL",
+      "score": 40,
+      "height": 9,
+      "timestamp": "2024-11-25T04:47:59.168Z"
+    },
+    {
+      "id": "CARL-1732510459976-u4r6fl5iy",
+      "name": "CARL",
+      "score": 40,
+      "height": 19,
+      "timestamp": "2024-11-25T04:54:19.976Z"
+    },
+    {
+      "id": "CARL-1732501581019-eg3rakrdz",
+      "name": "CARL",
+      "score": 30,
+      "height": 12,
+      "timestamp": "2024-11-25T02:26:21.019Z"
+    },
+    {
+      "id": "CARL-1732502938159-750i3qnzu",
+      "name": "CARL",
+      "score": 30,
+      "height": 14,
+      "timestamp": "2024-11-25T02:48:58.159Z"
+    },
+    {
+      "id": "BACK-1732572575040-q0hmdnsiu",
+      "name": "BACK",
+      "score": 30,
+      "height": 8,
+      "timestamp": "2024-11-25T22:09:35.040Z"
+    },
+    {
+      "id": "DEF-1732578413425-jzksy21ru",
+      "name": "DEF",
+      "score": 30,
+      "height": 11,
+      "timestamp": "2024-11-25T23:46:53.425Z"
+    },
+    {
+      "id": "CARL-1732496462333-evf80giky",
+      "name": "CARL",
+      "score": 0,
+      "height": 0,
+      "timestamp": "2024-11-25T01:01:02.333Z"
+    },
+    {
+      "id": "CARL-1732501319332-zl18766uy",
+      "name": "CARL",
+      "score": 0,
+      "height": 0,
+      "timestamp": "2024-11-25T02:21:59.332Z"
+    },
+    {
+      "id": "CARL-1732501851590-3i8q8rfnx",
+      "name": "CARL",
+      "score": 0,
+      "height": 0,
+      "timestamp": "2024-11-25T02:30:51.591Z"
+    },
+    {
+      "id": "CARL-1732501860954-i0qfe4rn6",
+      "name": "CARL",
+      "score": 0,
+      "height": 0,
+      "timestamp": "2024-11-25T02:31:00.954Z"
+    },
+    {
+      "id": "CARL-1732502029125-90tyr7s8i",
+      "name": "CARL",
+      "score": 0,
+      "height": 0,
+      "timestamp": "2024-11-25T02:33:49.125Z"
+    },
+    {
+      "id": "CARL-1732502721301-hl6uteau4",
+      "name": "CARL",
+      "score": 0,
+      "height": 0,
+      "timestamp": "2024-11-25T02:45:21.301Z"
+    },
+    {
+      "id": "CARL-1732503348476-anadhi46i",
+      "name": "CARL",
+      "score": 0,
+      "height": 0,
+      "timestamp": "2024-11-25T02:55:48.476Z"
+    },
+    {
+      "id": "CARL-1732507097303-ieyv7wycx",
+      "name": "CARL",
+      "score": 0,
+      "height": 0,
+      "timestamp": "2024-11-25T03:58:17.304Z"
+    },
+    {
+      "id": "CARL-1732511854302-1u2lrabnq",
+      "name": "CARL",
+      "score": 0,
+      "height": 0,
+      "timestamp": "2024-11-25T05:17:34.302Z"
+    },
+    {
+      "id": "CARL-1732577756886-ljoiyi1by",
+      "name": "CARL",
+      "score": 0,
+      "height": 1,
+      "timestamp": "2024-11-25T23:35:56.886Z"
+    }
+  ]
+}
